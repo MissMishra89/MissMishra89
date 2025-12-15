@@ -1,62 +1,39 @@
+h1 align="center">
+  Hi 👋, I'm <span style="color:#ff69b4;">Khushi Mishra</span>
+</h1>
 
-import { motion } from "framer-motion";
-whileInView="visible"
-viewport={{ once: true }}
-transition={{ duration: 0.8 }}
-className="max-w-4xl mx-auto bg-white/40 backdrop-blur-xl rounded-3xl shadow-2xl p-10 mb-12 border border-white/30"
->
-<h2 className="text-3xl font-bold text-pink-600 mb-6 flex items-center gap-2">
-<Server /> Backend Ready
-</h2>
-<ul className="space-y-3 text-lg">
-<li>✔ Scalable structure for Node.js & Express</li>
-<li>✔ API-ready frontend architecture</li>
-<li>✔ Easy MongoDB / SQL integration</li>
-<li>✔ Perfect for real-world full stack projects</li>
-</ul>
-</motion.section>
-
-
-{/* Career */}
-<motion.section
-variants={fadeUp}
-initial="hidden"
-whileInView="visible"
-viewport={{ once: true }}
-transition={{ duration: 0.8 }}
-className="max-w-4xl mx-auto bg-white/40 backdrop-blur-xl rounded-3xl shadow-2xl p-10 mb-20 border border-white/30"
->
-<h2 className="text-3xl font-bold text-pink-600 mb-6">Career Focus</h2>
-<p className="text-lg">
-This portfolio is designed to impress <b>recruiters</b>,
-<b> internship coordinators</b>, and <b>placement panels</b> with clean
-UI, smooth animations, and scalable full stack architecture.
+<h3 align="center">
+  🚀 Full Stack Web Developer | BCA Student | Code + Coffee ☕
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;HTML+CSS+JavaScript+Expert;Learning+Node.js;BCA+Student+%40+Allahabad+State+University;I+Love+Coding+With+Coffee+☕" />
 </p>
-</motion.section>
+## 👩‍💻 About Me
 
+- 🎓 **BCA Student** at **Allahabad State University**
+- 💻 **Full Stack Web Developer**
+- 🏢 Full Stack Web Development from **Inflection Org Pvt. Ltd.**
+- 🌱 Currently learning **Node.js**
+- ⚡ Highly skilled in **HTML, CSS & JavaScript**
+- ☕ *I believe great code is written with coffee*
+## 🛠️ Tech Stack
 
-{/* Footer */}
-<motion.footer
-initial={{ opacity: 0 }}
-animate={{ opacity: 1 }}
-transition={{ delay: 0.5 }}
-className="text-center pb-10"
->
-<p className="flex justify-center gap-2 items-center mb-4">
-<Code2 /> Built with React, Tailwind & Framer Motion
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
 </p>
-<div className="flex justify-center gap-4">
-<a
-href="https://github.com/khushimishra"
-className="inline-flex items-center gap-2 px-6 py-3 bg-pink-600 text-white rounded-full shadow-lg hover:bg-pink-700"
->
-<Github /> GitHub
-</a>
-<button className="inline-flex items-center gap-2 px-6 py-3 bg-white/60 backdrop-blur rounded-full shadow-lg hover:bg-white">
-<FileText /> Resume
-</button>
-</div>
-</motion.footer>
-</div>
-);
-}
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushimishra&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushimishra&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimishra&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>## 🚀 What I Do
+
+
+✔ Frontend Development (Responsive & Animated UI)
+✔ Backend Basics with Node.js
+✔ Clean & Maintainable Code
+✔ Git & GitHub Workflow
