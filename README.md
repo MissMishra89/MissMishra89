@@ -1,39 +1,74 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#ff69b4;">Khushi Mishra</span>
-</h1>
-
-<h3 align="center">
-  🚀 Full Stack Web Developer | BCA Student | Code + Coffee ☕
-</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;HTML+CSS+JavaScript+Expert;Learning+Node.js;BCA+Student+%40+Allahabad+State+University;I+Love+Coding+With+Coffee+☕" />
-</p>
-## 👩‍💻 About Me
-
-- 🎓 **BCA Student** at **Allahabad State University**
-- 💻 **Full Stack Web Developer**
-- 🏢 Full Stack Web Development from **Inflection Org Pvt. Ltd.**
-- 🌱 Currently learning **Node.js**
-- ⚡ Highly skilled in **HTML, CSS & JavaScript**
-- ☕ *I believe great code is written with coffee*
-## 🛠️ Tech Stack
+<h1 align="center">Hi 👋, I'm Khushi Mishra</h1>
+<h3 align="center">🚀 Full Stack Web Developer | BCA Student</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
-</p>
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushimishra&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushimishra&theme=radical&hide_border=true" width="48%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Lover;Passionate+Coder;Always+Learning+New+Things" />
 </p>
 
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 BCA Student  
+- 💻 Full Stack Developer (MERN)  
+- 🚀 Skilled in HTML, CSS, JavaScript, React, Node.js, Express  
+- 🌱 Currently learning Advanced Backend & System Design  
+- ⚡ Fun fact: I love building interactive web apps  
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimishra&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>## 🚀 What I Do
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
 
+---
 
-✔ Frontend Development (Responsive & Animated UI)
-✔ Backend Basics with Node.js
-✔ Clean & Maintainable Code
-✔ Git & GitHub Workflow
+## 📊 GitHub Stats (Auto Updating)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+- 🚗 Car Racing Game (JavaScript)
+- 🎓 School Advertisement AI Video Generator
+- 📄 Resume Builder Web App
+- 🎮 Mini Games Collection
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💖 Thanks for visiting my profile!
+</p>
