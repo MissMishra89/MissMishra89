@@ -24,9 +24,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MissMishra89/MissMishra89/output/github-contribution-grid-snake.svg" />
-</p>
 ## 📊 GitHub Stats (Auto Updating)
 
 <p align="center">
